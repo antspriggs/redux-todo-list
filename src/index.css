@@ -1,0 +1,21 @@
+body {
+  background-color: #ffebeb;
+  font-family: "Press Start 2P", cursive;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.nes-list button {
+  margin: 0 15px 0 0;
+}
+
+.nes-list {
+  margin-left: -20px;
+}
+
+ul li:not(:first-child) {
+  margin-top: 15px;
+}
